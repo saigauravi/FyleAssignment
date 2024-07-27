@@ -7,6 +7,8 @@ This project is a single-page application (SPA) built with Angular 14+ that allo
 ## Features
 
 - Add user workout details (name, workout type, and workout minutes)
+  ![Home Page](https://github.com/saigauravi/FyleAssignment/ss1.png)
+
 - Display user workout list in a table grid
 - Search by username
 - Filter by workout type
