@@ -29,8 +29,8 @@ This project is a single-page application (SPA) built with Angular 14+ that allo
 1. Clone the repository:
 
    ```bash
-   git clone 
-   cd HealthTracker
+   git clone https://github.com/saigauravi/FyleAssignment/
+   cd FyleAssignment
    ```
 
 2. Install dependencies
